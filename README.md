@@ -1,0 +1,2 @@
+# SoftUni
+Different python exercises
