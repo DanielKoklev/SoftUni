@@ -1,0 +1,3 @@
+﻿  ToyShop.cpp
+D:\Cpp\ConditionalStatements_Exercise\ToyShop\ToyShop.cpp(10,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ToyShop.vcxproj -> D:\Cpp\ConditionalStatements_Exercise\Debug\ToyShop.exe
