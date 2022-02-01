@@ -1,0 +1,3 @@
+﻿  VowelsSum.cpp
+D:\Cpp\ForLoop_Lab\VowelsSum\VowelsSum.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+  VowelsSum.vcxproj -> D:\Cpp\ForLoop_Lab\Debug\VowelsSum.exe
