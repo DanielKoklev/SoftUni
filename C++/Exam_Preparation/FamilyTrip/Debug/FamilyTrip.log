@@ -1,0 +1,5 @@
+﻿  FamilyTrip.cpp
+D:\Cpp\ExamPreparation\FamilyTrip\FamilyTrip.cpp(22,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Cpp\ExamPreparation\FamilyTrip\FamilyTrip.cpp(28,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Cpp\ExamPreparation\FamilyTrip\FamilyTrip.cpp(33,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  FamilyTrip.vcxproj -> D:\Cpp\ExamPreparation\Debug\FamilyTrip.exe
