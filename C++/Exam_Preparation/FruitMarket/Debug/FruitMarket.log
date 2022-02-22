@@ -1,0 +1,4 @@
+﻿  FruitMarket.cpp
+D:\Cpp\ExamPreparation\FruitMarket\FruitMarket.cpp(10,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Cpp\ExamPreparation\FruitMarket\FruitMarket.cpp(11,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  FruitMarket.vcxproj -> D:\Cpp\ExamPreparation\Debug\FruitMarket.exe
