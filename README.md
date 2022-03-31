@@ -1,2 +1,2 @@
 # SoftUni
-Different python exercises
+Different exercises from taken courses in SoftUni in C++ and Python.
